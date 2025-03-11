@@ -1,8 +1,5 @@
 # Hi, I'm Arqam Saleem 👋
 
-[![Banner]((https://www.canva.com/design/DAGgrFgGklE/yaPOW7lNoHjNbB91V4owNQ/edit?utm_content=DAGgrFgGklE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
-
----
 
 💫 **About Me:**
 
