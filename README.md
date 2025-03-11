@@ -1,6 +1,6 @@
 # Hi, I'm Arqam Saleem 👋
 
-[![Banner](https://via.placeholder.com/800x200?text=Welcome+to+My+Profile)](https://via.placeholder.com/800x200?text=Welcome+to+My+Profile)
+[![Banner]((https://www.canva.com/design/DAGgrFgGklE/yaPOW7lNoHjNbB91V4owNQ/edit?utm_content=DAGgrFgGklE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 ---
 
